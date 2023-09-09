@@ -1,0 +1,1 @@
+$query = mysqli_query($conn, "SELECT * FROM video a JOIN anime b ON a.anime_id = b.id WHERE b.id = '$idTonton'");

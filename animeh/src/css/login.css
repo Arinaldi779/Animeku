@@ -1,0 +1,15 @@
+body {
+    background-color: #AFA5D9;
+}
+.container {
+    background-color: #4723D9;
+    width: 400px;
+    position: relative;
+    top: 100px;
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+
+.container label .y {
+    width: 20px;
+}

@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 120px;
+  width: 1000px;
+  height: 400px;
+  border: 1px transparent;
+  border-radius: 10px;
+  background-color: #ffda60;
+  overflow-y: auto;
+}
+
+.container button {
+  height: 40px;
+}
+
+.container textarea {
+  resize: none;
+  width: 300px;
+  height: 155px
+}
+
+img .img {
+  width: 50px;
+  height: 50px;
+}
